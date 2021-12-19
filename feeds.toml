@@ -1,0 +1,32 @@
+[kbs-2021kpopawards]
+title = "2021 KBS 가요대축제 ─ 네이버TV"
+url = "https://tv.naver.com/kbs.2021kpopawards/clips"
+entrySelector = "div[class^='cds _MM_CARD']"
+titleSelector = "dt.title"
+linkSelector = "dt.title a"
+imageSelector = "div.cds_type a img"
+contentSelector = "span.tm_b"
+waitForSelector = "div.cds_area._infiniteCardArea div.cds._MM_CARD"
+onFail = "stale"
+
+[sbs-2021sbsgayo]
+title = "2021 SBS 가요대전 ─ 네이버TV"
+url = "https://tv.naver.com/sbs.2021sbsgayo/clips"
+entrySelector = "div[class^='cds _MM_CARD']"
+titleSelector = "dt.title"
+linkSelector = "dt.title a"
+imageSelector = "div.cds_type a img"
+contentSelector = "span.tm_b"
+waitForSelector = "div.cds_area._infiniteCardArea div.cds._MM_CARD"
+onFail = "stale"
+
+[mbc-2021mbctogether]
+title = "2021 MBC 가요대제전 ─ 네이버TV"
+url = "https://tv.naver.com/mbc.2021mbctogether/clips"
+entrySelector = "div[class^='cds _MM_CARD']"
+titleSelector = "dt.title"
+linkSelector = "dt.title a"
+imageSelector = "div.cds_type a img"
+contentSelector = "span.tm_b"
+waitForSelector = "div.cds_area._infiniteCardArea div.cds._MM_CARD"
+onFail = "stale"
