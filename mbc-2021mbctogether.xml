@@ -1,8 +1,107 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tv.naver.com/mbc.2021mbctogether/clips</id>
-    <title>2021 MBC 가요대제전 ─ 네이버TV</title>
-    <updated>2022-01-01T05:40:10.047Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://tv.naver.com/mbc.2021mbctogether/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>2021 MBC 가요대제전 ─ 네이버TV</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 01 Jan 2022 17:47:10 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[가요대제전 4K 직캠] 문빈 '호랑이' (MOON BIN FanCam) @MBCMusicFestival_211231 #예능연구소직캠]]></title>
+            <link>https://tv.naver.com/v/24384431</link>
+            <guid>https://tv.naver.com/v/24384431</guid>
+            <pubDate>Sat, 01 Jan 2022 17:47:09 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220101_145/ZQSf0_1641022071590ERtQT_JPEG/clip_20220101160156_13.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[가요대제전 4K 직캠] 김동현 '호랑이' (KIM DONG HYUN FanCam) @MBCMusicFestival_211231 #예능연구소직캠]]></title>
+            <link>https://tv.naver.com/v/24384423</link>
+            <guid>https://tv.naver.com/v/24384423</guid>
+            <pubDate>Sat, 01 Jan 2022 17:47:09 GMT</pubDate>
+            <content:encoded><![CDATA[3:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220101_129/a3Nh6_1641022017847BIONf_JPEG/clip_20220101160202_14.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[가요대제전 4K 직캠] 주연 '호랑이' (JUYEON FanCam) @MBCMusicFestival_211231 #예능연구소직캠]]></title>
+            <link>https://tv.naver.com/v/24384339</link>
+            <guid>https://tv.naver.com/v/24384339</guid>
+            <pubDate>Sat, 01 Jan 2022 17:47:09 GMT</pubDate>
+            <content:encoded><![CDATA[3:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220101_278/M7dBl_1641021416151Vvd1Q_JPEG/clip_20220101155335_11.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[가요대제전 4K 직캠] 리노 '호랑이' (LEE KNOW FanCam) @MBCMusicFestival_211231 #예능연구소직캠]]></title>
+            <link>https://tv.naver.com/v/24384307</link>
+            <guid>https://tv.naver.com/v/24384307</guid>
+            <pubDate>Sat, 01 Jan 2022 17:47:09 GMT</pubDate>
+            <content:encoded><![CDATA[3:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220101_137/aG6lB_1641021174989P7dB3_JPEG/clip_20220101155348_12.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[가요대제전 4K 직캠] 환웅 '호랑이' (HWAN WOONG FanCam) @MBCMusicFestival_211231 #예능연구소직캠]]></title>
+            <link>https://tv.naver.com/v/24384306</link>
+            <guid>https://tv.naver.com/v/24384306</guid>
+            <pubDate>Sat, 01 Jan 2022 17:47:09 GMT</pubDate>
+            <content:encoded><![CDATA[3:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220101_139/kiYZ2_1641021173738cVzF4_JPEG/clip_20220101155327_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[가요대제전 4K 직캠] 키노 '호랑이' (KINO FanCam) @MBCMusicFestival_211231 #예능연구소직캠]]></title>
+            <link>https://tv.naver.com/v/24384305</link>
+            <guid>https://tv.naver.com/v/24384305</guid>
+            <pubDate>Sat, 01 Jan 2022 17:47:09 GMT</pubDate>
+            <content:encoded><![CDATA[3:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220101_252/VfTB6_16410211722960rxie_JPEG/clip_20220101155110_9.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[가요대제전 4K 직캠] 큐 '호랑이' (Q FanCam) @MBCMusicFestival_211231 #예능연구소직캠]]></title>
+            <link>https://tv.naver.com/v/24384296</link>
+            <guid>https://tv.naver.com/v/24384296</guid>
+            <pubDate>Sat, 01 Jan 2022 17:47:09 GMT</pubDate>
+            <content:encoded><![CDATA[3:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220101_52/noH02_1641021114728OWkMx_JPEG/clip_20220101155023_8.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[가요대제전 4K 직캠] 호랑이즈 '호랑이' (호랑이즈 FanCam) @MBCMusicFestival_211231 #예능연구소직캠]]></title>
+            <link>https://tv.naver.com/v/24384294</link>
+            <guid>https://tv.naver.com/v/24384294</guid>
+            <pubDate>Sat, 01 Jan 2022 17:47:09 GMT</pubDate>
+            <content:encoded><![CDATA[3:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220101_268/gr8FW_1641021112375WLFas_JPEG/clip_20220101154923_7.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[가요대제전 4K 직캠] YB X 태일,도영,정우,해찬 '나는 나비' (YB X NCT127 FanCam) @MBCMusicFestival_211231 #예능연구소직캠]]></title>
+            <link>https://tv.naver.com/v/24384182</link>
+            <guid>https://tv.naver.com/v/24384182</guid>
+            <pubDate>Sat, 01 Jan 2022 17:47:09 GMT</pubDate>
+            <content:encoded><![CDATA[3:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220101_268/gxBis_1641020216388LmIvK_JPEG/clip_20220101153311_6.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[가요대제전 4K 직캠] 이준호 'Señorita' (JUNHO FanCam) @MBCMusicFestival_211231 #예능연구소직캠]]></title>
+            <link>https://tv.naver.com/v/24383949</link>
+            <guid>https://tv.naver.com/v/24383949</guid>
+            <pubDate>Sat, 01 Jan 2022 17:47:09 GMT</pubDate>
+            <content:encoded><![CDATA[2:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220101_153/wLIMA_1641018110338hsURx_JPEG/clip_20220101145919_4.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[가요대제전 4K 직캠] 임윤아 'Señorita' (YOONA FanCam) @MBCMusicFestival_211231 #예능연구소직캠]]></title>
+            <link>https://tv.naver.com/v/24383912</link>
+            <guid>https://tv.naver.com/v/24383912</guid>
+            <pubDate>Sat, 01 Jan 2022 17:47:09 GMT</pubDate>
+            <content:encoded><![CDATA[2:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220101_231/vGKeh_1641017813894DaDss_JPEG/clip_20220101150027_5.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[가요대제전 4K 직캠] 임윤아&이준호 'Señorita' (YOONA&JUNHO FanCam) @MBCMusicFestival_211231 #예능연구소직캠]]></title>
+            <link>https://tv.naver.com/v/24383911</link>
+            <guid>https://tv.naver.com/v/24383911</guid>
+            <pubDate>Sat, 01 Jan 2022 17:47:09 GMT</pubDate>
+            <content:encoded><![CDATA[2:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220101_175/HSflt_1641017811991siFAo_JPEG/clip_20220101145629_3.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
