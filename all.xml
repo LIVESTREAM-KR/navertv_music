@@ -4,9 +4,49 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jan 2022 17:47:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jan 2022 05:40:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[가요대제전 4K 직캠] 찬희 'Snow Prince' (CHA NI FanCam) @MBCMusicFestival_211231 #예능연구소직캠 (2021 MBC 가요대제전 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24390145</link>
+            <guid>https://tv.naver.com/v/24390145</guid>
+            <pubDate>Sun, 02 Jan 2022 05:40:06 GMT</pubDate>
+            <content:encoded><![CDATA[3:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220102_129/ysPFO_1641051473859Ioyhd_JPEG/clip_20220102001820_34.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[가요대제전 4K 직캠] 장원영 '첫 사랑니 (Rum Pum Pum Pum)' (WONYOUNG FanCam) @MBCMusicFestival_211231 #예능연구소직캠 (2021 MBC 가요대제전 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24389879</link>
+            <guid>https://tv.naver.com/v/24389879</guid>
+            <pubDate>Sun, 02 Jan 2022 05:40:06 GMT</pubDate>
+            <content:encoded><![CDATA[3:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220101_57/F290C_1641048711262Hv6U6_JPEG/clip_20220101232729_2.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[가요대제전 4K 직캠] 리노 'Snow Prince' (Lee Know FanCam) @MBCMusicFestival_211231 #예능연구소직캠 (2021 MBC 가요대제전 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24389688</link>
+            <guid>https://tv.naver.com/v/24389688</guid>
+            <pubDate>Sun, 02 Jan 2022 05:40:06 GMT</pubDate>
+            <content:encoded><![CDATA[3:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220101_238/kxALy_1641046907407YTGNc_PNG/clip_20220101225644_72.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[가요대제전 4K 직캠] 첫사랑즈 '첫 사랑니 (Rum Pum Pum Pum)' (첫사랑즈 FanCam) @MBCMusicFestival_211231 #예능연구소직캠 (2021 MBC 가요대제전 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24389471</link>
+            <guid>https://tv.naver.com/v/24389471</guid>
+            <pubDate>Sun, 02 Jan 2022 05:40:06 GMT</pubDate>
+            <content:encoded><![CDATA[3:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220101_107/pldW9_1641045471033MpbJM_JPEG/clip_20220101224046_59.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[가요대제전 4K 직캠] 음중 Prince 'Snow Prince' (음중 Prince FanCam) @MBCMusicFestival_211231 #예능연구소직캠 (2021 MBC 가요대제전 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/24389351</link>
+            <guid>https://tv.naver.com/v/24389351</guid>
+            <pubDate>Sun, 02 Jan 2022 05:40:06 GMT</pubDate>
+            <content:encoded><![CDATA[4:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220101_261/3SxgJ_1641044514566W0pzF_JPEG/clip_20220101221654_50.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[가요대제전 4K 직캠] 문빈 '호랑이' (MOON BIN FanCam) @MBCMusicFestival_211231 #예능연구소직캠 (2021 MBC 가요대제전 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/24384431</link>
