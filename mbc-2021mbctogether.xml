@@ -4,7 +4,7 @@
         <title>2021 MBC 가요대제전 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 05:41:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 17:49:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,6 +78,54 @@
             <pubDate>Fri, 07 Jan 2022 05:41:34 GMT</pubDate>
             <content:encoded><![CDATA[2:26]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220107_227/3x8EX_16415259920217R16u_JPEG/clip_20220107120305_24.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[가요대제전 4K 직캠] 엔시티 드림 런쥔 '맛 (Hot Sauce)' (NCT DREAM RENJUN FanCam) @MBCMusicFestival_211231 #예능연구소직캠]]></title>
+            <link>https://tv.naver.com/v/24483512</link>
+            <guid>https://tv.naver.com/v/24483512</guid>
+            <pubDate>Fri, 07 Jan 2022 17:49:44 GMT</pubDate>
+            <content:encoded><![CDATA[2:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220107_185/7QwH7_16415256927408Nvh4_JPEG/clip_20220107120433_26.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[가요대제전 4K 직캠] 엔시티 드림 마크 '맛 (Hot Sauce)' (NCT DREAM MARK FanCam) @MBCMusicFestival_211231 #예능연구소직캠]]></title>
+            <link>https://tv.naver.com/v/24483511</link>
+            <guid>https://tv.naver.com/v/24483511</guid>
+            <pubDate>Fri, 07 Jan 2022 17:49:44 GMT</pubDate>
+            <content:encoded><![CDATA[3:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220107_46/sXTRG_1641525691569443Kl_JPEG/clip_20220107115725_22.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[가요대제전 4K 직캠] 엔시티 드림 재민 '맛 (Hot Sauce)' (NCT DREAM JAEMIN FanCam) @MBCMusicFestival_211231 #예능연구소직캠]]></title>
+            <link>https://tv.naver.com/v/24483344</link>
+            <guid>https://tv.naver.com/v/24483344</guid>
+            <pubDate>Fri, 07 Jan 2022 17:49:44 GMT</pubDate>
+            <content:encoded><![CDATA[3:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220107_31/s8ItN_1641525153958hRn0O_JPEG/clip_20220107115248_20.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[가요대제전 4K 직캠] 엔시티 드림 제노 '맛 (Hot Sauce)' (NCT DREAM JENO FanCam) @MBCMusicFestival_211231 #예능연구소직캠]]></title>
+            <link>https://tv.naver.com/v/24483343</link>
+            <guid>https://tv.naver.com/v/24483343</guid>
+            <pubDate>Fri, 07 Jan 2022 17:49:44 GMT</pubDate>
+            <content:encoded><![CDATA[2:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220107_85/WQNM5_1641525152862RKqTv_JPEG/clip_20220107115116_18.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[가요대제전 4K 직캠] 엔시티 드림 지성 '맛 (Hot Sauce)' (NCT DREAM JISUNG FanCam) @MBCMusicFestival_211231 #예능연구소직캠]]></title>
+            <link>https://tv.naver.com/v/24483232</link>
+            <guid>https://tv.naver.com/v/24483232</guid>
+            <pubDate>Fri, 07 Jan 2022 17:49:44 GMT</pubDate>
+            <content:encoded><![CDATA[3:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220107_85/83WR7_16415247977531il2X_JPEG/clip_20220107114932_16.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[가요대제전 4K 직캠] 엔시티 드림 해찬 '맛 (Hot Sauce)' (NCT DREAM HAECHAN FanCam) @MBCMusicFestival_211231 #예능연구소직]]></title>
+            <link>https://tv.naver.com/v/24483227</link>
+            <guid>https://tv.naver.com/v/24483227</guid>
+            <pubDate>Fri, 07 Jan 2022 17:49:44 GMT</pubDate>
+            <content:encoded><![CDATA[2:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220107_62/9WzgK_1641524795014yLxHu_JPEG/clip_20220107114446_12.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[가요대제전 4K 직캠] 아이키 'Same Same Different' (Aiki FanCam) @MBCMusicFestival_211231 #예능연구소직캠]]></title>
@@ -198,54 +246,6 @@
             <pubDate>Thu, 06 Jan 2022 17:49:40 GMT</pubDate>
             <content:encoded><![CDATA[4:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220106_28/l6Exa_1641455852260ehaLc_JPEG/clip_20220106163544_27.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[가요대제전 4K 직캠] 효정 'Dolphin' (HYOJUNG FanCam) @MBCMusicFestival_211231 #예능연구소직캠]]></title>
-            <link>https://tv.naver.com/v/24466623</link>
-            <guid>https://tv.naver.com/v/24466623</guid>
-            <pubDate>Thu, 06 Jan 2022 17:49:40 GMT</pubDate>
-            <content:encoded><![CDATA[4:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220106_212/5nRe9_1641452796986LaymW_JPEG/clip_20220106154430_21.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[가요대제전 4K 직캠] 유아 'Dolphin' (YooA FanCam) @MBCMusicFestival_211231 #예능연구소직캠]]></title>
-            <link>https://tv.naver.com/v/24466622</link>
-            <guid>https://tv.naver.com/v/24466622</guid>
-            <pubDate>Thu, 06 Jan 2022 17:49:40 GMT</pubDate>
-            <content:encoded><![CDATA[4:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220106_127/IqjZR_1641452795939U7IE4_JPEG/clip_20220106154421_19.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[가요대제전 4K 직캠] 승희 'Dolphin' (SEUNGHEE FanCam) @MBCMusicFestival_211231 #예능연구소직캠]]></title>
-            <link>https://tv.naver.com/v/24466621</link>
-            <guid>https://tv.naver.com/v/24466621</guid>
-            <pubDate>Thu, 06 Jan 2022 17:49:40 GMT</pubDate>
-            <content:encoded><![CDATA[4:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220106_100/MGWSD_1641452794842RMPuo_JPEG/clip_20220106154411_17.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[가요대제전 4K 직캠] 선우정아 'Dolphin' (Sunwoojunga FanCam) @MBCMusicFestival_211231 #예능연구소직캠]]></title>
-            <link>https://tv.naver.com/v/24466620</link>
-            <guid>https://tv.naver.com/v/24466620</guid>
-            <pubDate>Thu, 06 Jan 2022 17:49:40 GMT</pubDate>
-            <content:encoded><![CDATA[4:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220106_73/WSdIU_1641452793757fHUwr_JPEG/clip_20220106154401_15.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[가요대제전 4K 직캠] 선우정아 X 효정, 유아, 승희 'Dolphin' (Sunwoojunga X HYOJUNG, YooA, SEUNGHEE FanCam) @MBCMusicF]]></title>
-            <link>https://tv.naver.com/v/24466375</link>
-            <guid>https://tv.naver.com/v/24466375</guid>
-            <pubDate>Thu, 06 Jan 2022 17:49:40 GMT</pubDate>
-            <content:encoded><![CDATA[4:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220106_255/iDpaB_1641452193251qT0MO_JPEG/clip_20220106153420_13.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[가요대제전 4K 직캠] 선우정아 '도망가자' (Sunwoojunga FanCam) @MBCMusicFestival_211231 #예능연구소직캠]]></title>
-            <link>https://tv.naver.com/v/24465520</link>
-            <guid>https://tv.naver.com/v/24465520</guid>
-            <pubDate>Thu, 06 Jan 2022 17:49:40 GMT</pubDate>
-            <content:encoded><![CDATA[4:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220106_95/qdwVI_1641450104611i12O6_PNG/clip_20220106145658_10.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
